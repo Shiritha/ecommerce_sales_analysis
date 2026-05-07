@@ -80,18 +80,9 @@ The Excel file contains the following sheets:
 
 ---
 
-## 🔧 How to Use the Dashboard
+## <img width="541" height="580" alt="Screenshot 2026-05-08 021455" src="https://github.com/user-attachments/assets/73c82245-937a-409f-97d7-98adc76de70e" />
 
-1. **Open** the file `ecommerce_olist_dashboard.xlsx` in Microsoft Excel.
-2. Navigate to the **Dashboard** sheet.
-3. Use the **slicers on the right side** to filter data by:
-   - Order status
-   - Product category
-   - Payment type
-   - Customer state
-4. Use the **date timeline at the top** to zoom into a specific time period.
-5. All charts update **automatically** based on slicer selections.
-
+---
 
 ## 📂 Dataset Information
 
