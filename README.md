@@ -112,7 +112,8 @@ This dashboard is built on the **Olist Brazilian E-Commerce Public Dataset**, wh
 ## 🛠️ Tools & Techniques Used
 
 - **Microsoft Excel**
-  - Power Query  
+  - Power Query
+  - Power Pivot 
   - Pivot Tables
   - Pivot Charts
   - Slicers & Timeline Filters
