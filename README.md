@@ -92,9 +92,6 @@ The Excel file contains the following sheets:
 4. Use the **date timeline at the top** to zoom into a specific time period.
 5. All charts update **automatically** based on slicer selections.
 
-> ⚠️ Note: Slicers and Timelines require **Microsoft Excel 2013 or later**. They may not work in Google Sheets or older Excel versions.
-
----
 
 ## 📂 Dataset Information
 
